@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.7.2-next.4
+
+### Patch Changes
+
+- a57d29d572: Adds skipMetricsLookup to the kubernetes-backend schema
+
 ## 0.7.2-next.3
 
 ### Patch Changes
